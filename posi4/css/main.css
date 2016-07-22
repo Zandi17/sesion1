@@ -1,0 +1,23 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.color1 {
+	height: 200px;
+	width: 200px;
+	position: static;
+	background: #ee3e64;
+}
+.color2 {
+	height: 200px;
+	width: 200px;
+	position: static;
+	background: #44accf;
+}
+.color3 {
+	height: 200px;
+	width: 200px;
+	position: static;
+	background: #b7d84b;
+}

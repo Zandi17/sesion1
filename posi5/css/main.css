@@ -1,0 +1,45 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.color1 {
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	background: #ee3e64;
+}
+.color2 {
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: -200px;
+	left: 600px;
+	right: 0px;
+	bottom: 0px;
+	background: #44accf;
+}
+.color3 {
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 100px;
+	background: #b7d84b;
+}
+.color4{
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: -200px;
+	left: 600px;
+	right: 0px;
+	bottom: 1000px;
+	background: #FFFF00;
+}
